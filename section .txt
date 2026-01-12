@@ -1,0 +1,54 @@
+        <section id="menu" class="menu-section">
+            <div class="container">
+                <h2 class="section-title">Our Menu</h2>
+                <p class="section-sub">Freshly baked daily — cakes, breads, pastries and more.</p>
+
+                <div class="menu-grid">
+                    <article class="menu-item">
+                        <img src="images/cake1.jpg" alt="Chocolate Cake">
+                        <h3>Chocolate Cake</h3>
+                        <p>Rich chocolate cake with ganache frosting.</p>
+                        <span class="price">$25</span>
+                    </article>
+
+                    <article class="menu-item">
+                        <img src="images/bread1.jpg" alt="Sourdough Bread">
+                        <h3>Sourdough Loaf</h3>
+                        <p>Classic tangy sourdough, baked fresh.</p>
+                        <span class="price">$6</span>
+                    </article>
+
+                    <article class="menu-item">
+                        <img src="images/croissant.jpg" alt="Butter Croissant">
+                        <h3>Butter Croissant</h3>
+                        <p>Flaky, buttery croissant — perfect with coffee.</p>
+                        <span class="price">$3</span>
+                    </article>
+
+                    <article class="menu-item">
+                        <img src="images/muffin.jpg" alt="Blueberry Muffin">
+                        <h3>Blueberry Muffin</h3>
+                        <p>Moist muffin packed with fresh blueberries.</p>
+                        <span class="price">$2.50</span>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+
+
+                        <!-- secondary navigation -->
+                <ul class="nav-menu">
+                    <li><a href="index.html#home">Home</a></li>
+                    <li><a href="index.html#about">About</a></li>
+                    <li><a href="#menu">Menu</a></li>
+                    <li><a href="index.html#contact">Contact</a></li>
+                </ul>
+
+                    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+THE SPECIALTY JOURNEY
+Discover the story behind Uncle Leo's Bakery! From humble beginnings to becoming the most beloved bakery in Wellington, our journey is one of passion, dedication, and a love for creating the finest baked goods. Learn more about how we started and what makes us a local favorite!
